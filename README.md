@@ -9,7 +9,7 @@ This project is a React.js-based product details and cart management application
 ## Live Preview
 
 View the live preview of this application here:  
-(https://your-project-live-link.com)
+
 
 
 ## Technologies Used
