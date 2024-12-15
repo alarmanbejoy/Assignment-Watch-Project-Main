@@ -9,11 +9,7 @@ This project is a React.js-based product details and cart management application
 ## Live Preview
 
 View the live preview of this application here:  
-<<<<<<< HEAD
 (https://your-project-live-link.com)
-=======
-
->>>>>>> a7a84fe81c56a2396ee298962f6975d1c41d54f0
 
 
 ## Technologies Used
@@ -173,8 +169,4 @@ Contains mock product data, providing flexibility to add or modify products easi
   
 
 
-<<<<<<< HEAD
     
-=======
-    
->>>>>>> a7a84fe81c56a2396ee298962f6975d1c41d54f0
