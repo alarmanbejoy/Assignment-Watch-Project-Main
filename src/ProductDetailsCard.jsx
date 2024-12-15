@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { HeartIcon } from '@heroicons/react/24/outline'; // Import Heart Icon
-import products from './products.json';
+import products from  '../products.json'
 
 const ProductDetailsCard = () => {
   const [selectedColor, setSelectedColor] = useState('');
